@@ -21,4 +21,4 @@ Apaixonado por Tecnologia e Resolução de Problemas do Mundo Real através da P
     <img align = "center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div><br/>
 
-![snake gif](https://github.com/Gabruxa1/Gabruxa1/blob/output/github-contribuition-grid-snake.svg)
+![snake animation](https://github.com/Gabruxa1/Gabruxa1/blob/output/github-contribuition-grid-snake.svg)
