@@ -7,7 +7,7 @@ Apaixonado por Tecnologia e Resolução de Problemas do Mundo Real através da P
 <br>
 
 
-![Stats do Git](https://github-readme-stats.vercel.app/api?username=gabruxa1&show_icons=true&theme=radical)[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabruxa1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Stats do Git](https://github-readme-stats.vercel.app/api?username=gabruxa1&show_icons=true&theme=radical)[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabruxa1&layout=compact)](https://github.com/gabruxa1/github-readme-stats)
 
 ### Tecnologias que uso no meu dia a dia
 
